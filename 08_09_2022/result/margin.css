@@ -1,0 +1,11 @@
+div{
+    border: 3px solid orange;
+    width:300;
+    height: 200px;
+    margin: 10px;
+}
+.one{
+    margin-left:50px;
+    width:100px;
+    height:20px;
+}

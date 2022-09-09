@@ -1,0 +1,15 @@
+h1{ 
+    color: blue;
+     font-size: 600x;
+     text-decoration: underline;
+}
+p{
+    color: red;
+    border: 1px
+}
+ul{
+    color: aqua;
+    border: 600px;
+    text-decoration:underline;
+    text-transform: capitalize;
+}

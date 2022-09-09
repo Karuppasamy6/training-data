@@ -1,0 +1,18 @@
+h1{
+    display:inline;
+}
+h2{
+    display:inline;
+    margin: 20px;
+    border:2px solid gray;
+    padding:3px;
+    background-color: antiquewhite;
+}
+
+li{
+    display:inline-block;
+    border: 1px solid red;
+    margin: 50px;
+    padding: 30px;
+    background-color: lightblue;
+}

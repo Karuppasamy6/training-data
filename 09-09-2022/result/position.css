@@ -1,0 +1,36 @@
+.main{
+    position: absolute;
+    border: 2px solid black;
+    height: 400;
+    width: 500;
+    background-color: aliceblue;
+    left:0;
+    bottom:0;
+}
+.sub{
+    position:absolute;
+    right: 0;
+    bottom: 0;
+    border: 5px solid blue;
+    background-color: burlywood;
+    height:30px;
+    width:50px;
+    margin: 10px ;
+    text-align:center;
+}
+.body{
+    position: relative;
+
+}
+h1{
+
+}
+h2{
+    border: 2px solid rebeccapurple;
+    position:sticky;
+    position: fixed;
+    top:0;
+    left: 0;
+    border: 1px solid rosybrown;
+    background-color: lightcyan;
+}
