@@ -1,0 +1,30 @@
+.lay1{
+    height:120%;
+    width: 70%;
+    border: 5px solid blue;
+    margin:30px;
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-size: 60px;
+}
+img{
+    margin: 10px;
+}
+.lay2{
+    height:120%;
+    width: 70%;
+    border: 5px solid blue;
+    margin:30px;
+    background-color: bisque;
+}
+h2{
+    text-align: center;
+    color: blueviolet;
+    font-size: 60px;
+}
+img{
+    margin: 10px;
+}
