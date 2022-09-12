@@ -1,47 +1,40 @@
 .main{
-    margin-left:150px;
+   width: 100%;
 }
 .c1{
     border: 3px solid black;
-    height:250px;
-    width: 250px;
+    height:47%;
+    width:32.5%;
     display: inline-block;
 }
 .c2{
     border: 3px solid black;
-    height:250px;
-    width: 250px;
+    height:47%;
+    width:32.5%;
     display: inline-block;   
-    margin-left:75px;
+    
 }
 .c3{
     border: 3px solid black;
-    height:250px;
-    width: 250px;
+    height:47%;
+    width:32.5%;
     display: inline-block;
-    margin-left: 75px;
-}
-.main1{
-    margin-left:150px;
-
 }
 .c4{
     border: 3px solid black;
-    height:250px;
-    width: 250px;
+    height:47%;
+    width:32.5%;
     display: inline-block;
 }
 .c5{
     border: 3px solid black;
-    height:250px;
-    width: 250px;
-    margin-left:75px;
+    height:47%;
+    width:32.5%;
     display: inline-block;
 }
 .c6{
     border: 3px solid black;
-    height:250px;
-    width: 250px;
-    margin-left:75px;
-    display: inline-block;
+    height:47%;
+    width:32.5%;
+    display:  inline-block;
 }

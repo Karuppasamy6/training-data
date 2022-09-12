@@ -1,15 +1,17 @@
-.main{
-    position: relative;
+.main{position: relative;
     border:2px solid black;
-    height:110%;
-    width:60%;
-    margin: auto;
+    height:100%;
+    width:100%;
+    margin:auto;
 }
+    
 .d1{
     position: absolute;
     background-color: blue;
-    width:28%;
+    width:30%;
     height:30%;
+    left: 0;
+    top: 0;
     
 
 }
@@ -18,7 +20,7 @@
     background-color:yellow;
     right:0;
     top:0;
-    width:28%;
+    width:30%;
     height:30%;
     
 }
@@ -27,7 +29,7 @@
     background-color: brown;
     bottom:0;
     left:0;
-    width:28%;
+    width:30%;
     height:30%;
     
 }
@@ -36,14 +38,15 @@
     background-color:red;
     right:0;
     bottom:0;
-    width:28%;
+    width:30%;
     height:30%;
 }
 .d5{
     position: absolute;
     background-color:green;
-    top:35%;
-    left:36%;
-    width:28%;
+    left:50%;
+    top:50%;
+    width:30%;
     height:30%;
+    transform: translate(-50%,-50%);
 }
