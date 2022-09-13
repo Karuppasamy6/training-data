@@ -1,0 +1,28 @@
+li{
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+}
+ul{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+input{
+    border-bottom: 2px solid #faa61a;
+    
+}
+.main3{
+    width: 55%;
+    margin: 0 auto;
+}
+label{
+    width:100px;
+    display: inline-block;
+
+}
