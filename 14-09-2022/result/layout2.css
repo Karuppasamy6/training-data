@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+header{
+    background-color: burlywood;
+    padding: 20px;
+    margin:5px 0px;
+}
+h2{
+    text-align: center;
+}
+nav{
+    background-color: blueviolet;
+    padding:15px;
+    margin-top: 5px;
+}
+.main{
+    background-color: beige;
+    margin-top: 10px;
+    padding-left:150px;
+}
+.sub{
+    margin-left:150px;
+    padding:300PX 0PX;
+    width:35%;
+    background-color:lightgray;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+}
+.sub1{
+    padding: 300px 0px;
+    width:25%;
+    background-color: gray;
+    text-align: center;
+    display: inline-block;
+    margin-left: 5px;
+}
+footer{
+    background-color: black;
+    padding: 20px;
+    margin-top: 10px;
+    color: white;
+}

@@ -18,14 +18,31 @@ nav{
     color: white;
 }
 section{
-    margin-top: 3px;
-    padding-top: 75px;
-    padding-bottom: 200px;
-    color: white;
+    margin:10px;
+    overflow:hidden;
     background-color: gray;
 }
+.main{
+    background-color: black;
+    margin:5px;
+    color: white;
+    padding: 120px;
+}
+.gird{
+    margin:5px;
+    background-color:aqua;
+}
+.column1{
+    margin-top:20px;
+    background-color:white;
+    height:200px;
+    width:30%;
+    display: inline-block;
+    padding:10px;
+    margin:5px;
+}
 footer{
-    margin-top:3px;
+    margin-top:10px;
     padding: 20px;
     background-color: orange;
     color: white;
