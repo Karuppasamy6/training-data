@@ -1,0 +1,99 @@
+.main{
+    background-color: lightgrey;
+    overflow: hidden;
+}
+/* heater started here */
+header{
+    background-color: white;
+    border-bottom:5px;
+    
+}
+header h1{
+    text-align: center;
+    padding: 5px;
+}
+header h3{
+    text-align: center;
+    padding: 5px;
+}
+/* header end here */
+/* nav started here */
+ul{
+    background-color: black;
+}
+li{
+    display: inline-block;
+    color: white;
+    margin:20px;
+}
+/* nav end here */
+/* sub-a started here */
+.sub-a{
+    width:70%;
+    display: inline-block;
+}
+.sub-a1 h4{
+    background-color: gray;
+    padding-bottom:150px;
+}
+.sub-a1{
+    background-color: white;
+    padding:5px;
+}
+.sub-a2 h4{
+    background-color: gray;
+    padding-bottom:150px;
+}
+.sub-a2{
+    background-color: white;
+    padding:5px;
+    margin-top: 5px;
+}
+/* sub-b starter here */
+.sub-b{
+    width: 29.45%;
+    vertical-align: top;
+    display: inline-block;
+    margin-left:3px ;
+}
+.sub-b1{
+    background-color: white;
+    padding-right: 10px;
+    border-bottom:5px;
+}
+.sub-b1 h2{
+    text-align: center;
+    font-style: italic;
+}
+.sub-b1 h3{
+    background-color: gray;
+    padding: 40px; 
+}
+.sub-b2{
+    background-color: white;
+    padding-right:1px;
+}
+.sub-b2 h2{
+    text-align: center;
+    font-style: italic;
+    padding: 5px;
+}
+.sub-b2 ul{
+    background-color: gray;
+    padding: 10px;
+    margin:5px;
+}
+.sub-b3{
+    background-color: white;
+    padding-right: 10px;
+    border-top:5px;
+}
+.sub-b3 h3{
+    background-color: gray;
+    padding:20px;
+}
+footer{
+    padding: 20px;
+    margin-top: 5px;
+    text-align:center ;
+}

@@ -5,16 +5,19 @@
 body{
     background-color: gray;
 }
+/* header started here */
 h1{
     text-align: center;
     margin-top: 10px;
     color:white;
 }
+/* heater end here */
 .main{
     width:80%;
     height:550px;
     margin:10px 10px 0 150px;
 }
+/* nav stated here */
 nav{
     background-color: pink;
     padding:20px;
@@ -26,6 +29,7 @@ nav li{
     padding-left:40px;
     padding-right: 30px;
 }
+/* nav end here  */
 .sub2{
     width:79%;
     background-color: white;
