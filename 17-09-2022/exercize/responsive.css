@@ -1,0 +1,21 @@
+@media(max-width:1200px){
+    .child1{
+        width:24.5%;
+        display: inline-block;
+        background-color:blue;
+    }
+}
+@media(max-width:991px){
+    .child1{
+        width:49%;
+        display: inline-block;
+        background-color: violet;
+    }
+}
+@media(max-width:767px){
+    .child1{
+        width:100%;
+        background-color: grey;
+    }
+
+}
